@@ -1,4 +1,4 @@
 python
 ======
 
-Random python exercises
+Random python exercises!
